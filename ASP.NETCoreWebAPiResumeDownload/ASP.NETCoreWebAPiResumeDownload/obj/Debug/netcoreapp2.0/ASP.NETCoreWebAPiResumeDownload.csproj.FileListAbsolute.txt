@@ -1,0 +1,11 @@
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\bin\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.deps.json
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\bin\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.runtimeconfig.json
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\bin\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.runtimeconfig.dev.json
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\bin\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.dll
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.csprojResolveAssemblyReference.cache
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.csproj.CoreCompileInputs.cache
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.AssemblyInfoInputs.cache
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.AssemblyInfo.cs
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\bin\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.pdb
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.dll
+C:\Users\JeffckyWang\Source\Repos\ASP.NETCoreWebAPiResumeDownload\ASP.NETCoreWebAPiResumeDownload\obj\Debug\netcoreapp2.0\ASP.NETCoreWebAPiResumeDownload.pdb
